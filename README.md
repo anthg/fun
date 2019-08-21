@@ -1,2 +1,1 @@
-# fun
-fun stuffs
+# Training, challenges, testing code
